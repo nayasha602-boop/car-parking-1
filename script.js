@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
 
-    const BASE_URL = "http://localhost:5000"; // Apna server URL yahan daalo
+    const BASE_URL = "https://car-parking-theta.vercel.app/"; // Apna server URL yahan daalo
 
     // ===== ELEMENTS =====
     const areas = {
